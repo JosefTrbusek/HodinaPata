@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HodinaPata", "HodinaPata\HodinaPata.csproj", "{83C30EB2-7947-4BAD-A08E-E1AB16BB9CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonniSeznam", "TelefonniSeznam\TelefonniSeznam.csproj", "{F9EB6774-A9AD-4F24-8640-7FC1681B2374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83C30EB2-7947-4BAD-A08E-E1AB16BB9CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C30EB2-7947-4BAD-A08E-E1AB16BB9CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C30EB2-7947-4BAD-A08E-E1AB16BB9CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C30EB2-7947-4BAD-A08E-E1AB16BB9CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9EB6774-A9AD-4F24-8640-7FC1681B2374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EB6774-A9AD-4F24-8640-7FC1681B2374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EB6774-A9AD-4F24-8640-7FC1681B2374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EB6774-A9AD-4F24-8640-7FC1681B2374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FA0CD5E-B3B5-4B95-B7C6-BCF7E248699D}
+	EndGlobalSection
+EndGlobal
